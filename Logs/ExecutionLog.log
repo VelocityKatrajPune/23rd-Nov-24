@@ -1,0 +1,34 @@
+2025-04-22 07:03:50,629 - 23rdNov24_CoverFox -INFO - Hello
+2025-04-22 07:16:52,091 - 23rdNov24_CoverFox -INFO - Welcome to CoverFox Testing
+2025-04-22 07:16:56,449 - 23rdNov24_CoverFox -WARN - launching browser
+2025-04-22 07:16:57,032 - 23rdNov24_CoverFox -INFO - Clicking on gender
+2025-04-22 07:16:57,650 - 23rdNov24_CoverFox -INFO - clickOnNextButtonHealthPlanPage
+2025-04-22 07:16:59,199 - 23rdNov24_CoverFox -INFO - handleAgeDropDown
+2025-04-22 07:16:59,297 - 23rdNov24_CoverFox -INFO - clickOnNextButtonOfMemberDetailsPage
+2025-04-22 07:16:59,868 - 23rdNov24_CoverFox -INFO - enterPinCode
+2025-04-22 07:17:00,056 - 23rdNov24_CoverFox -INFO - enterMobileNumber
+2025-04-22 07:17:00,197 - 23rdNov24_CoverFox -INFO - clickOnContinueButton
+2025-04-22 07:17:04,279 - 23rdNov24_CoverFox -INFO - validating CoverFoxPlans
+2025-04-22 07:17:04,285 - 23rdNov24_CoverFox -INFO - closing browser
+2025-04-22 07:18:51,080 - 23rdNov24_CoverFox -INFO - Welcome to CoverFox Testing
+2025-04-22 07:18:54,706 - 23rdNov24_CoverFox -WARN - launching browser
+2025-04-22 07:18:55,303 - 23rdNov24_CoverFox -INFO - Clicking on gender
+2025-04-22 07:18:56,397 - 23rdNov24_CoverFox -INFO - clickOnNextButtonHealthPlanPage
+2025-04-22 07:18:57,955 - 23rdNov24_CoverFox -INFO - handleAgeDropDown
+2025-04-22 07:18:58,045 - 23rdNov24_CoverFox -INFO - clickOnNextButtonOfMemberDetailsPage
+2025-04-22 07:18:58,495 - 23rdNov24_CoverFox -INFO - enterPinCode
+2025-04-22 07:18:58,640 - 23rdNov24_CoverFox -INFO - enterMobileNumber
+2025-04-22 07:18:58,763 - 23rdNov24_CoverFox -INFO - clickOnContinueButton
+2025-04-22 07:19:02,839 - 23rdNov24_CoverFox -INFO - validating CoverFoxPlans
+2025-04-22 07:19:02,846 - 23rdNov24_CoverFox -INFO - closing browser
+2025-04-22 07:20:00,818 - 23rdNov24_CoverFox -INFO - Welcome to CoverFox Testing
+2025-04-22 07:20:29,031 - 23rdNov24_CoverFox -WARN - launching browser
+2025-04-22 07:20:29,816 - 23rdNov24_CoverFox -INFO - Clicking on gender
+2025-04-22 07:20:31,041 - 23rdNov24_CoverFox -INFO - clickOnNextButtonHealthPlanPage
+2025-04-22 07:20:32,297 - 23rdNov24_CoverFox -INFO - handleAgeDropDown
+2025-04-22 07:20:32,378 - 23rdNov24_CoverFox -INFO - clickOnNextButtonOfMemberDetailsPage
+2025-04-22 07:20:32,863 - 23rdNov24_CoverFox -INFO - enterPinCode
+2025-04-22 07:20:33,097 - 23rdNov24_CoverFox -INFO - enterMobileNumber
+2025-04-22 07:20:33,244 - 23rdNov24_CoverFox -INFO - clickOnContinueButton
+2025-04-22 07:20:37,352 - 23rdNov24_CoverFox -INFO - validating CoverFoxPlans
+2025-04-22 07:20:37,356 - 23rdNov24_CoverFox -INFO - closing browser
