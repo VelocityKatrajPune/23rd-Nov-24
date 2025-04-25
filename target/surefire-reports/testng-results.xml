@@ -53,12 +53,12 @@
       <![CDATA[closing Browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-04-22T07:20:00 IST" name="Suite" finished-at="2025-04-22T07:20:37 IST" duration-ms="36982">
+  <suite started-at="2025-04-25T07:10:10 IST" name="Suite" finished-at="2025-04-25T07:10:35 IST" duration-ms="24900">
     <groups>
     </groups>
-    <test started-at="2025-04-22T07:20:00 IST" name="Test" finished-at="2025-04-22T07:20:37 IST" duration-ms="36982">
+    <test started-at="2025-04-25T07:10:10 IST" name="Test" finished-at="2025-04-25T07:10:35 IST" duration-ms="24900">
       <class name="com.coverFox_test.CoverFoxTestUsingTestNG">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.coverFox_test.CoverFoxTestUsingTestNG@6302bbb1]" started-at="2025-04-22T07:20:00 IST" name="launchBrowser" finished-at="2025-04-22T07:20:29 IST" duration-ms="28359" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.coverFox_test.CoverFoxTestUsingTestNG@5fe94a96]" started-at="2025-04-25T07:10:10 IST" name="launchBrowser" finished-at="2025-04-25T07:10:24 IST" duration-ms="14342" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[reading url from properties file]]>
@@ -68,7 +68,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="coverFoxPreconditions()[pri:0, instance:com.coverFox_test.CoverFoxTestUsingTestNG@6302bbb1]" started-at="2025-04-22T07:20:29 IST" name="coverFoxPreconditions" finished-at="2025-04-22T07:20:37 IST" duration-ms="8105" status="PASS">
+        <test-method is-config="true" signature="coverFoxPreconditions()[pri:0, instance:com.coverFox_test.CoverFoxTestUsingTestNG@5fe94a96]" started-at="2025-04-25T07:10:24 IST" name="coverFoxPreconditions" finished-at="2025-04-25T07:10:34 IST" duration-ms="9913" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[clicking on gender]]>
@@ -102,7 +102,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- coverFoxPreconditions -->
-        <test-method signature="validateCoverFoxPlans()[pri:0, instance:com.coverFox_test.CoverFoxTestUsingTestNG@6302bbb1]" started-at="2025-04-22T07:20:37 IST" name="validateCoverFoxPlans" finished-at="2025-04-22T07:20:37 IST" duration-ms="109" status="PASS">
+        <test-method signature="validateCoverFoxPlans()[pri:0, instance:com.coverFox_test.CoverFoxTestUsingTestNG@5fe94a96]" started-at="2025-04-25T07:10:34 IST" name="validateCoverFoxPlans" finished-at="2025-04-25T07:10:34 IST" duration-ms="93" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[getting plan number from text]]>
@@ -118,7 +118,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateCoverFoxPlans -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFox_test.CoverFoxTestUsingTestNG@6302bbb1]" started-at="2025-04-22T07:20:37 IST" name="closeBrowser" finished-at="2025-04-22T07:20:37 IST" duration-ms="321" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFox_test.CoverFoxTestUsingTestNG@5fe94a96]" started-at="2025-04-25T07:10:34 IST" name="closeBrowser" finished-at="2025-04-25T07:10:35 IST" duration-ms="479" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[closing Browser]]>
