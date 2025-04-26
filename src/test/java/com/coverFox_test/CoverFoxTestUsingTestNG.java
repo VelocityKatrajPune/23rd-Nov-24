@@ -83,6 +83,8 @@ public class CoverFoxTestUsingTestNG extends Base{
 		Reporter.log("This is my first change", true);
 		Reporter.log("This is my second change", true);
 		Reporter.log("This is my third change", true);
+		System.out.println("Good Morning");
+		System.out.println("This is pull test");
 		
 	}
 	
