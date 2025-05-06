@@ -16,6 +16,8 @@ public class CoverFoxAddressDetailsPage {
 	private WebElement continueButton;
 
 	
+	
+	
 	public CoverFoxAddressDetailsPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 	}
